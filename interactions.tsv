@@ -1,208 +1,216 @@
 sourceTaxonId	sourceTaxonName	interactionTypeId	interactionTypeName	targetTaxonId	targetTaxonName	localityId	localityName	decimalLatitude	decimalLongitude	observationDateTime	referenceDoi	referenceCitation
-EOL:5396106	Cassytha ciliolata	RO:0002444	parasite of	EOL:628694	Cliffortia cuneata	GEONAMES:953987	South Africa					http://parasiticplants.siu.edu/index.html
-EOL:596901	Cassytha filiformis	RO:0002444	parasite of	EOL:61858	Exocarpos	GEONAMES:2175229	Blue Mountains, New South Wales, Australia					http://parasiticplants.siu.edu/index.html
-EOL:596901	Cassytha filiformis	RO:0002444	parasite of	EOL:49100	Scaevola	GEONAMES:2094341	Lissenung Island near Kavieng, New Ireland, Papua New Guinea					http://parasiticplants.siu.edu/index.html
-EOL:5514361	Hydnora africana	RO:0002444	parasite of	EOL:1144433	Euphorbia mauritanica	GEONAMES:953987	near Worcester, South Africa					http://parasiticplants.siu.edu/index.html
-EOL:6360761	Misodendrum angulatum	RO:0002444	parasite of	EOL:1153916	Nothofagus dombeyii	GEONAMES:3864759	near Llao Llao hotel, Bariloche, Argentina					http://parasiticplants.siu.edu/index.html
-EOL:6360783	Misodendrum gayanum	RO:0002444	parasite of	EOL:1153923	Nothofagus betuloides	GEONAMES:3895114	Chile					http://parasiticplants.siu.edu/index.html
-EOL:6360783	Misodendrum gayanum	RO:0002444	parasite of	EOL:1153916	Nothofagus dombeyii	GEONAMES:3895114	Chile					http://parasiticplants.siu.edu/index.html
-EOL:6360765	Misodendrum linearifolium	RO:0002444	parasite of	EOL:1153916	Nothofagus dombeyii							http://parasiticplants.siu.edu/index.html
-EOL:6360765	Misodendrum linearifolium	RO:0002444	parasite of	EOL:1153900	Nothofagus pumilio	GEONAMES:3865483	Argentina					http://parasiticplants.siu.edu/index.html
-EOL:6360772	Misodendrum oblongifolium	RO:0002444	parasite of	EOL:1153927	Nothofagus antarctica	GEONAMES:3895114	Andean foothills east of Chillan, Chile					http://parasiticplants.siu.edu/index.html
-EOL:2918445	Misodendrum punctulatum	RO:0002444	parasite of	EOL:1153927	Nothofagus antarctica	GEONAMES:3843470	Lago Guillelmo, Parque Nacional Nahuel Huapi					http://parasiticplants.siu.edu/index.html
-EOL:2918445	Misodendrum punctulatum	RO:0002444	parasite of	EOL:22267	Usnea	GEONAMES:3834448	Tierra del Fuego National Park					http://parasiticplants.siu.edu/index.html
-EOL:5605145	Aetanthus mutisii	RO:0002444	parasite of	EOL:32233	Quercus							http://parasiticplants.siu.edu/index.html
-EOL:5605212	Agelanthus prunifolius	RO:0002444	parasite of	EOL:37840	Rhus	GEONAMES:953987	Kleinemond, South Africa.					http://parasiticplants.siu.edu/index.html
-EOL:5605325	Amyema fasciculata	RO:0002444	parasite of	EOL:1149282	Bischofia javanica	GEONAMES:1686536	Mt. Silanganan, Bataan, Luzon Island, Philippines					http://parasiticplants.siu.edu/index.html
-EOL:5605607	Amylotheca subumbellata	RO:0002444	parasite of	EOL:5460565	Rhodamnia trineura 	GEONAMES:7839399	Paluma Range just north of Townsville, Queensland, Australia					http://parasiticplants.siu.edu/index.html
-EOL:5605854	Decaisnina zollingeri	RO:0002444	parasite of	EOL:582270	Mangifera indica	GEONAMES:1622786	Makassar, South Sulawesi, Indonesia					http://parasiticplants.siu.edu/index.html
-EOL:2878070	Dendrophthoe falcata	RO:0002444	parasite of	EOL:1054831	Annona squamosa	GEONAMES:1227603	Sri Lanka					http://parasiticplants.siu.edu/index.html
-EOL:5605922	Dendrophthoe homoplastica	RO:0002444	parasite of	EOL:643367	Acacia holosericea	GEONAMES:7839399	Townsville, Queensland, Australia					http://parasiticplants.siu.edu/index.html
-EOL:5605922	Dendrophthoe homoplastica	RO:0002444	parasite of	EOL:486240	Viscum articulatum							http://parasiticplants.siu.edu/index.html
-EOL:2872661	Dendrophthoe pentandra	RO:0002444	parasite of	EOL:2508664	Syzygium aequem	GEONAMES:1733045	Putrajaya Wetlands, Malaysia					http://parasiticplants.siu.edu/index.html
-EOL:5605995	Dendrophthoe trigona	RO:0002444	parasite of	EOL:491537	Ficus racemosa	GEONAMES:1252876	Western Ghats, India					http://parasiticplants.siu.edu/index.html
-EOL:5606003	Dendrophthoe vitellina	RO:0002444	parasite of	EOL:301400	Eucalyptus paniculata	GEONAMES:2155400	New South Wales					http://parasiticplants.siu.edu/index.html
-EOL:5606016	Desmaria mutabilis	RO:0002444	parasite of	EOL:1153904	Nothofagus obliqua	GEONAMES:3895114	Nahuelbuta National Park, Chile					http://parasiticplants.siu.edu/index.html
-EOL:5606016	Desmaria mutabilis	RO:0002444	parasite of	EOL:1153927	Nothofagus antarctica	GEONAMES:3895114	Nahuelbuta National Park, Chile					http://parasiticplants.siu.edu/index.html
-EOL:2918445	Misodendrum puctulatum	RO:0002444	parasite of	EOL:1153927	Nothofagus antarctica	GEONAMES:3895114	Nahuelbuta National Park, Chile					http://parasiticplants.siu.edu/index.html
-EOL:5606207	Englerina lecardii	RO:0002444	parasite of	EOL:1106501	Mitragyna inermis	GEONAMES:2300660	Bolgatanga road, Ghana					http://parasiticplants.siu.edu/index.html
-EOL:5606316	Helicanthes elastica	RO:0002444	parasite of	EOL:2508660	Syzygium cumini	GEONAMES:1252876	Western Ghats, India					http://parasiticplants.siu.edu/index.html
-EOL:2878430	Helixanthera ligustrina	RO:0002444	parasite of	EOL:2891233	Rhododendron arboreum	GEONAMES:1283239	Kathmandu Valley					http://parasiticplants.siu.edu/index.html
-EOL:5606706	Ligaria cuneifolia	RO:0002444	parasite of	EOL:642102	Acacia caven	GEONAMES:8261224	Ovalle, Chile					http://parasiticplants.siu.edu/index.html
-EOL:2872676	Loranthus kaoi	RO:0002444	parasite of		Taxillus rhododendricolius	GEONAMES:1668284	Taiwan					http://parasiticplants.siu.edu/index.html
-EOL:5514361	Macrosolen albicaulis	RO:0002444	parasite of	EOL:60627	Ficus	GEONAMES:1227603	Sri Lanka					http://parasiticplants.siu.edu/index.html
-EOL:5606784	Macrosolen capitellatus	RO:0002444	parasite of	EOL:582270	Mangifera indica							http://parasiticplants.siu.edu/index.html
-EOL:2876354	Macrosolen geminatus	RO:0002444	parasite of	EOL:50517	Canarium							http://parasiticplants.siu.edu/index.html
-EOL:5606825	Macrosolen retusus	RO:0002444	parasite of	EOL:5442752	Pternandra coerulescens	GEONAMES:1781760	Bako National Park, Sarawak, Malaysia 					http://parasiticplants.siu.edu/index.html
-EOL:3120263	Muellerina eucalyptoides	RO:0002444	parasite of	EOL:630114	Eucalyptus blakelyi	GEONAMES:2077456	Australia					http://parasiticplants.siu.edu/index.html
-EOL:5606990	Oncocalyx welwitschii	RO:0002444	parasite of	EOL:13650	Acacia	GEONAMES:3355312	Namutoni, Namibia					http://parasiticplants.siu.edu/index.html
-EOL:5094669	Oryctanthus occidentalis	RO:0002444	parasite of	EOL:596888	Persea americana	GEONAMES:3624060	La Selva, Costa Rica					http://parasiticplants.siu.edu/index.html
-EOL:104159	Leioproctus	http://eol.org/schema/terms/VisitsFlowersOf	visits flowers of	EOL:5607088	Peraxilla tetrapetala							http://parasiticplants.siu.edu/index.html
-EOL:5607169	Phragmanthera usuiensis	RO:0002444	parasite of	EOL:581314	Nerium oleander							http://parasiticplants.siu.edu/index.html
-EOL:5607122	Phragmanthera	RO:0002444	parasite of	EOL:2884441	Maytenus senegalesis							http://parasiticplants.siu.edu/index.html
-EOL:5093823	Plicosepalus acaciae	RO:0002444	parasite of	EOL:13650	Acacia	GEONAMES:294886	Negev desert, Israel					http://parasiticplants.siu.edu/index.html
-EOL:5607283	Psittacanthus acinarius	RO:0002444	parasite of		Tacaranda	GEONAMES:3804424	Apure, Venezuela					http://parasiticplants.siu.edu/index.html
-EOL:5607283	Psittacanthus acinarius	RO:0002444	parasite of	EOL:640212	Campsiandra comoso	GEONAMES:3804424	Apure, Venezuela					http://parasiticplants.siu.edu/index.html
-EOL:5607395	Psittacanthus palmeri	RO:0002444	parasite of	EOL:583025	Bursera fagaroides	GEONAMES:4026701	Rosa Amarillo, Jalisco, Mexico					http://parasiticplants.siu.edu/index.html
-EOL:5607395	Psittacanthus palmeri	RO:0002444	parasite of	EOL:5615440	Bursera schlechtendalii	GEONAMES:3595415	Guatemala, Huehuetenango					http://parasiticplants.siu.edu/index.html
-EOL:5094823	Psittacanthus ramiflorus	RO:0002444	parasite of	EOL:32233	Quercus	GEONAMES:3983035	Sinaloa, Mexico					http://parasiticplants.siu.edu/index.html
-EOL:5094845	Psittacanthus rhynchanthus	RO:0002444	parasite of	EOL:583027	Bursera simaruba	GEONAMES:3618928	Jinotega, Nicaragua					http://parasiticplants.siu.edu/index.html
-EOL:5094845	Psittacanthus rhynchanthus	RO:0002444	parasite of	EOL:642632	Gliricidia sepium	GEONAMES:3620368	Chontales, Nicaragua					http://parasiticplants.siu.edu/index.html
-EOL:5094250	Psittacanthus robustus	RO:0002444	parasite of	EOL:5497801	Vochysia oppugnata							http://parasiticplants.siu.edu/index.html
-EOL:23654311	Psittacanthus schiedeanus	RO:0002444	parasite of	EOL:392723	Drimys winteri	GEONAMES:3624731	Volcan Barva, Costa Rica					http://parasiticplants.siu.edu/index.html
-EOL:2872688	Scurrula elata	RO:0002444	parasite of	EOL:2891233	Rhododendron arboreum	GEONAMES:1282988	Nepal					http://parasiticplants.siu.edu/index.html
-EOL:5094694	Septulina glauca	RO:0002444	parasite of	EOL:61752	Lycium	GEONAMES:953987	Voëlfontein Farm, South Africa					http://parasiticplants.siu.edu/index.html
-EOL:5607948	Tapinanthus bangwensis	RO:0002444	parasite of	EOL:29805	Gardenia	GEONAMES:7649051	Tamale, Ghana					http://parasiticplants.siu.edu/index.html
-EOL:5608020	Tapinanthus forbesii	RO:0002444	parasite of	EOL:13650	Acacia	GEONAMES:3355312	Namutoni, Namibia					http://parasiticplants.siu.edu/index.html
-EOL:2872698	Taxillus chinensis	RO:0002444	parasite of	EOL:38451	Sambucus	GEONAMES:1733039	Sabah, Malaysia					http://parasiticplants.siu.edu/index.html
-EOL:2872700	Taxillus kaempferi	RO:0002444	parasite of	EOL:1061734	Pinus wallichiana	GEONAMES:1252634	Bhutan					http://parasiticplants.siu.edu/index.html
-EOL:5607242	Tristerix corymbosus	RO:0002444	parasite of	EOL:5536083	Colletia spinosissima	GEONAMES:3895114	Santiago, Chile					http://parasiticplants.siu.edu/index.html
-EOL:5607242	Tristerix corymbosus	RO:0002444	parasite of	EOL:5539317	Cissus striata	GEONAMES:3877946	Osorno, Chile					http://parasiticplants.siu.edu/index.html
-EOL:5094080	Tristerix longebracteatus	RO:0002444	parasite of	EOL:61869	Buddleja	GEONAMES:3932488	Peru					http://parasiticplants.siu.edu/index.html
-EOL:2918126	Tristerix penduliflorus	RO:0002444	parasite of	EOL:38931	Schinus	GEONAMES:3932488	Peru					http://parasiticplants.siu.edu/index.html
-	Tristerix rhodanthus	RO:0002444	parasite of	EOL:5438017	Brachyotum	GEONAMES:9179604	Parque Nacional Madidi, Bolivia					http://parasiticplants.siu.edu/index.html
-EOL:5095110	Tristerix verticillatus	RO:0002444	parasite of	EOL:23306275	Schinus mantanus	GEONAMES:3895114	Yerba Loca National Park, Chile					http://parasiticplants.siu.edu/index.html
-EOL:5095110	Tristerix verticillatus	RO:0002444	parasite of	EOL:5536083	Colletia spinosissima	GEONAMES:3895114	Yerba Loca National Park, Chile					http://parasiticplants.siu.edu/index.html
-EOL:488488	Buckleya distichophylla	RO:0002444	parasite of	EOL:34199	Tsuga	GEONAMES:6254928	Virginia, USA					http://parasiticplants.siu.edu/index.html
-EOL:487593	Pyrularia pubera	RO:0002444	parasite of	EOL:1034953	Abies fraseri	GEONAMES:4826850	West Virginia, USA					http://parasiticplants.siu.edu/index.html
-EOL:5604643	Antidaphne punctulata	RO:0002444	parasite of	EOL:5345764	Desfontainia spinosa	GEONAMES:3895114	Nahuelbuta Chile					http://parasiticplants.siu.edu/index.html
-EOL:489584	Eubrachion ambiguum	RO:0002444	parasite of	EOL:2508607	Pimenta	GEONAMES:4566966	Santana Peak, Puerto Rico					http://parasiticplants.siu.edu/index.html
-EOL:5604673	Lepidoceras chilense	RO:0002444	parasite of	EOL:5417050	Laurelia sempervirens							http://parasiticplants.siu.edu/index.html
-EOL:2872621	Dendrotrophe	RO:0002444	parasite of	EOL:44513	Glochidion	GEONAMES:2088628	Okinaiwa, Papua New Guinea					http://parasiticplants.siu.edu/index.html
-EOL:2872632	Phacellaria rigidula	RO:0002444	parasite of	EOL:2876328	Dentrotrophe fructescens	GEONAMES:1819730	Hong Kong					http://parasiticplants.siu.edu/index.html
-EOL:2872633	Phacellaria tonkinensis	RO:0002444	parasite of	EOL:2872682	Macrosolen cochinchinensis	GEONAMES:8476780	Thong Nong, Cao Bang, Vietnam					http://parasiticplants.siu.edu/index.html
-EOL:2872628	Phacellaria	RO:0002444	parasite of	EOL:2872680	Macrosolen							http://parasiticplants.siu.edu/index.html
-EOL:586648	Arceuthobium americanum	RO:0002444	parasite of	EOL:1061758	Pinus contorta	GEONAMES:5437350	Saguache Co., Colorado, USA					http://parasiticplants.siu.edu/index.html
-EOL:5610743	Arceuthobium bicarinatum	RO:0002444	parasite of	EOL:323438	Pinus occidentalis	GEONAMES:3504558	Hispaniola					http://parasiticplants.siu.edu/index.html
-	Arceuthobium campylopodum subsp. abietinum	RO:0002444	parasite of	EOL:1061727	Abies magnifica	GEONAMES:5369578	Madera Co., California, USA					http://parasiticplants.siu.edu/index.html
-	Arceuthobium campylopodum subsp. blumeri	RO:0002444	parasite of	EOL:1011262	Pinus strobiformis	GEONAMES:5308878	Carr Canyon, Huachuca Mts., Pima Co. AZ					http://parasiticplants.siu.edu/index.html
-	Arceuthobium campylopodum subsp. campylopodum	RO:0002444	parasite of	EOL:999712	Pinus jeffreyi	GEONAMES:5383559	Placerville, California, USA					http://parasiticplants.siu.edu/index.html
-	Arceuthobium campylopodum subsp. cyanocarpum	RO:0002444	parasite of	EOL:1061751	Pinus ponderosa	GEONAMES:5574999	Boulder Co., Colorado, USA					http://parasiticplants.siu.edu/index.html
-	Arceuthobium campylopodum subsp. tsugense	RO:0002444	parasite of	EOL:1281916	Pinus contorta ssp. contorta	GEONAMES:5977034	Horne Lake, British Columbia, Canada					http://parasiticplants.siu.edu/index.html
-	Arceuthobium campylopodum subsp. tsugense	RO:0002444	parasite of	EOL:1061728	Abies lasiocarpa	GEONAMES:5735869	Lane Co., Oregon, USA					http://parasiticplants.siu.edu/index.html
-	Arceuthobium campylopodum subsp. tsugense	RO:0002444	parasite of	EOL:1059917	Tsuga mertensiana	GEONAMES:5735869	Lane Co., Oregon, USA					http://parasiticplants.siu.edu/index.html
-	Arceuthobium campylopodum subsp. tsugense	RO:0002444	parasite of	EOL:1034932	Pinus albicaulis	GEONAMES:5735869	Lane Co., Oregon, USA					http://parasiticplants.siu.edu/index.html
-EOL:582679	Arceuthobium douglasii	RO:0002444	parasite of	EOL:1061712	Pseudotsuga menziesii	GEONAMES:5424847	Mt. Herman, El Paso Co. CO					http://parasiticplants.siu.edu/index.html
-EOL:582679	Arceuthobium douglasii	RO:0002444	parasite of	EOL:6420636	Caliciopsis (Wallrothiella) arceuthobii	GEONAMES:5490100	Sandia Mts., Sandoval Co., NM					http://parasiticplants.siu.edu/index.html
-EOL:597106	Arceuthobium gillii	RO:0002444	parasite of	EOL:1274871	Pinus leiophylla var. chihuahuana	GEONAMES:5551752	Bear Canyon, Santa Catalina Mts., Arizona					http://parasiticplants.siu.edu/index.html
-EOL:2877544	Arceuthobium minutissimum	RO:0002444	parasite of	EOL:1061734	Pinus wallichiana	GEONAMES:1252634	Bhutan					http://parasiticplants.siu.edu/index.html
-EOL:597104	Arceuthobium oxycedri	RO:0002444	parasite of	EOL:1061669	Juniperus oxycedrus	GEONAMES:6359350	San Agustin de Guadalix, north of Madrid, Spain					http://parasiticplants.siu.edu/index.html
-EOL:2872657	Arceuthobium pini	RO:0002444	parasite of	EOL:1061744	Pinus yunnanensis	GEONAMES:1785694	Baimaxueshan Nature Reserve in Northwest Yunnan, China					http://parasiticplants.siu.edu/index.html
-	Arceuthobium vaginatum ssp. cryptopodum	RO:0002444	parasite of	EOL:1281914	Pinus ponderosa var. scopulorum	GEONAMES:5483680	Pecos, NM					http://parasiticplants.siu.edu/index.html
-	Arceuthobium vaginatum ssp. durangense	RO:0002444	parasite of	EOL:1281914	Pinus ponderosa var. scopulorum	GEONAMES:3996063	Durango, Mexico					http://parasiticplants.siu.edu/index.html
-EOL:5604734	Dendrophthora elliptica	RO:0002444	parasite of	EOL:52157	Tibouchina							http://parasiticplants.siu.edu/index.html
-EOL:51368	Dendrophthora	RO:0002444	parasite of	EOL:38372	Vaccinium	GEONAMES:3708476	Cerro Itamut, Bocas del Toro, Panama					http://parasiticplants.siu.edu/index.html
-EOL:5610841	Korthalsella lindsayi	RO:0002444	parasite of	EOL:1105598	Coprosma crassifolia	GEONAMES:2186224	New Zealand					http://parasiticplants.siu.edu/index.html
-EOL:5610841	Korthalsella lindsayi	RO:0002444	parasite of	EOL:5619124	Melicope simplex	GEONAMES:2186224	New Zealand					http://parasiticplants.siu.edu/index.html
-EOL:595745	Korthalsella opuntia	RO:0002444	parasite of	EOL:40549990	Euodia borbonica	GEONAMES:2186224	New Zealand					http://parasiticplants.siu.edu/index.html
-EOL:5610842	Korthalsella salicornioides	RO:0002444	parasite of	EOL:595042	Erica lusitanica	GEONAMES:2186224	New Zealand					http://parasiticplants.siu.edu/index.html
-EOL:5610842	Korthalsella salicornioides	RO:0002444	parasite of	EOL:5448887	Kunzea ericoides	GEONAMES:2186224	New Zealand					http://parasiticplants.siu.edu/index.html
-EOL:5612087	Notothixos incanus	RO:0002444	parasite of	EOL:1327063	Melaleuca	GEONAMES:2152274	Queensland, Australia					http://parasiticplants.siu.edu/index.html
-EOL:5611027	Phoradendron brachystachyum	RO:0002444	parasite of	EOL:5181979	Pachycereus pringlei	GEONAMES:4017698	Cape Region of Baja California Sur, Mexico					http://parasiticplants.siu.edu/index.html
-EOL:486242	Phoradendron leucarpum	RO:0002444	parasite of	EOL:1151697	Quercus coccinea	GEONAMES:4060563	Elmore Co, Alabama, USA					http://parasiticplants.siu.edu/index.html
-	Phoradendron perredactum	RO:0002444	parasite of	EOL:37864	Bursera	GEONAMES:3996063	Morelos, Mexico					http://parasiticplants.siu.edu/index.html
-EOL:486245	Phoradendron quadrangulare	RO:0002444	parasite of	EOL:60627	Ficus	GEONAMES:3619190	Río Estelí, Nicaragua					http://parasiticplants.siu.edu/index.html
-EOL:5611009	Phoradendron tonduzii	RO:0002444	parasite of	EOL:578225	Tecoma stans	GEONAMES:3617796	Madriz, Nicaragua					http://parasiticplants.siu.edu/index.html
-	Viscum album ssp. austriacum	RO:0002444	parasite of	EOL:1059929	Pinus sylvestris	GEONAMES:2770542	Lower Austria					http://parasiticplants.siu.edu/index.html
-EOL:5611655	Viscum angulatum	RO:0002444	parasite of	EOL:1111390	Randia dumetorum	GEONAMES:1264418	Mahabaleshwar, India					http://parasiticplants.siu.edu/index.html
-EOL:486240	Viscum articulatum	RO:0002444	parasite of	EOL:5605922	Dendrophthoe homoplasticum							http://parasiticplants.siu.edu/index.html
-EOL:5611688	Viscum capitellatum	RO:0002444	parasite of	EOL:2878070	Dendrophthoe falcata	GEONAMES:1252876	Western Ghats, India					http://parasiticplants.siu.edu/index.html
-EOL:5611831	Viscum minimum	RO:0002444	parasite of	EOL:20197	Euphorbia							http://parasiticplants.siu.edu/index.html
-EOL:2905652	Balanophora abbreviata	RO:0002444	parasite of	EOL:60627	Ficus	GEONAMES:1605651	Phu Laen Kha National Park, Chiyaphum Prov., Thailand					http://parasiticplants.siu.edu/index.html
-EOL:2872803	Balanophora elongata	RO:0002444	parasite of	EOL:1081772	Pandanus klossii	GEONAMES:1733042	Gunung Ulu Kli, Pahang, Malaysia					http://parasiticplants.siu.edu/index.html
-EOL:5604491	Balanophora latisepala	RO:0002444	parasite of	EOL:1153040	Phyllanthus emblica	GEONAMES:1153670	Prov. Chiang Mai, Northern Thailand					http://parasiticplants.siu.edu/index.html
-	Lathrophytum peckoltii	RO:0002444	parasite of	EOL:61154	Paullinia	GEONAMES:3451189	Rio de Janeiro, Brazil					http://parasiticplants.siu.edu/index.html
-EOL:5604545	Ombrophytum subterraneum	RO:0002444	parasite of	EOL:6204856	Tessaria absinthioides	GEONAMES:3894952	Chiuchiu, Chile					http://parasiticplants.siu.edu/index.html
-EOL:5604545	Ombrophytum subterraneum	RO:0002444	parasite of	EOL:27787	Medicago	GEONAMES:3894952	Chiuchiu, Chile					http://parasiticplants.siu.edu/index.html
-EOL:5604545	Ombrophytum subterraneum	RO:0002444	parasite of	EOL:5604542	Ombrophytum	GEONAMES:3894952	Chiuchiu, Chile					http://parasiticplants.siu.edu/index.html
-EOL:5604545	Ombrophytum subterraneum	RO:0002444	parasite of		Tessaria tuber							http://parasiticplants.siu.edu/index.html
-	Dactylanthus taylori	RO:0002471	eaten by	EOL:1038741	Mystacina tuberculata							http://parasiticplants.siu.edu/index.html
-EOL:5514348	Bdallophytum americanum	RO:0002444	parasite of	EOL:37864	Bursera	GEONAMES:3514780	Costeras La Mancha, Veracruz, Mexico					http://parasiticplants.siu.edu/index.html
-EOL:23654311	Cytinus capensis	RO:0002444	parasite of	EOL:5623803	Diosma hirsuta	GEONAMES:953987	South Africa					http://parasiticplants.siu.edu/index.html
-EOL:5514276	Cytinus hypocistis	RO:0002444	parasite of	EOL:488251	Cistus ladenifer	GEONAMES:2510769	Spain					http://parasiticplants.siu.edu/index.html
-EOL:5514276	Cytinus hypocistis	RO:0002444	parasite of	EOL:5731802	Cistus clusii							http://parasiticplants.siu.edu/index.html
-EOL:5514276	Cytinus hypocistis	RO:0002444	parasite of	EOL:483189	Cistus salviifolius							http://parasiticplants.siu.edu/index.html
-EOL:5514283	Cytinus ruber	RO:0002444	parasite of	EOL:1246346	Cistus creticus	GEONAMES:8133747	Ikaria, Greece					http://parasiticplants.siu.edu/index.html
-EOL:5514243	Apodanthes caseariae	RO:0002444	parasite of	EOL:62218	Casearia	GEONAMES:3621889	San Isidro, Costa Rica					http://parasiticplants.siu.edu/index.html
-EOL:5514243	Apodanthes caseariae	RO:0002444	parasite of	EOL:489758	Casearia stjohnii	GEONAMES:3703430	Barrow Colorado Island, Panama					http://parasiticplants.siu.edu/index.html
-EOL:5514209	Pilostyles aethiopica	RO:0002444	parasite of	EOL:703324	Brachystegia spiciformis	GEONAMES:884979	Christmas Pass, Mutare, Zimbabwe					http://parasiticplants.siu.edu/index.html
-EOL:5514209	Pilostyles aethiopica	RO:0002444	parasite of	EOL:415641	Julbernardia globiflora	GEONAMES:893009	Christon Bank, Zimbabwe					http://parasiticplants.siu.edu/index.html
-EOL:5514221	Pilostyles haussknechtii	RO:0002444	parasite of	EOL:13451	Astragalus	GEONAMES:130758	Iran					http://parasiticplants.siu.edu/index.html
-EOL:582674	Pilostyles thurberi	RO:0002444	parasite of	EOL:414723	Dalea formosa	GEONAMES:4703582	Knox Co., TX.					http://parasiticplants.siu.edu/index.html
-EOL:582674	Pilostyles thurberi	RO:0002444	parasite of	EOL:640285	Psorothamnus emoryi	GEONAMES:5332921	Southern CA					http://parasiticplants.siu.edu/index.html
-	Cuscuta approximata ssp. approximata	RO:0002444	parasite of	EOL:27797	Dorycnium	GEONAMES:3117732	Madrid, Spain					http://parasiticplants.siu.edu/index.html
-	Cuscuta approximata ssp. approximata	RO:0002444	parasite of	EOL:37526	Artemisia	GEONAMES:3117732	Madrid, Spain					http://parasiticplants.siu.edu/index.html
-EOL:1246825	Cucuta campestris	RO:0002444	parasite of	EOL:483313	Glechoma hederacea	GEONAMES:4914570	Urbana, Illinois					http://parasiticplants.siu.edu/index.html
-EOL:1246825	Cucuta campestris	RO:0002444	parasite of	EOL:27877	Trifolium							http://parasiticplants.siu.edu/index.html
-EOL:1246825	Cucuta campestris	RO:0002444	parasite of	EOL:61159	Corchorus	GEONAMES:248816	Jordan					http://parasiticplants.siu.edu/index.html
-EOL:1246825	Cucuta campestris	RO:0002444	parasite of	EOL:61211	Coleus							http://parasiticplants.siu.edu/index.html
-EOL:580983	Cuscuta cephalanthii	RO:0002444	parasite of	EOL:61211	Coleus							http://parasiticplants.siu.edu/index.html
-EOL:580983	Cuscuta compacta	RO:0002444	parasite of	EOL:61211	Coleus							http://parasiticplants.siu.edu/index.html
-EOL:580988	Cuscuta cuspidata	RO:0002444	parasite of	EOL:38325	Gaillardia	GEONAMES:4703582	Knox Co., TX.					http://parasiticplants.siu.edu/index.html
-EOL:580988	Cuscuta cuspidata	RO:0002444	parasite of	EOL:580328	Campsis radicans	GEONAMES:4099753	Arkansas					http://parasiticplants.siu.edu/index.html
-EOL:580985	Cuscuta epilinum	RO:0002444	parasite of	EOL:581568	Linum usitatissimum							http://parasiticplants.siu.edu/index.html
-EOL:580990	Cuscuta epithymum	RO:0002444	parasite of	EOL:38297	Cuscuta	GEONAMES:3336898	Cantabria, Spain					http://parasiticplants.siu.edu/index.html
-EOL:580990	Cuscuta epithymum	RO:0002444	parasite of		Cuscuta epithymum ssp. kotschyi	GEONAMES:3336898	Cantabria, Spain					http://parasiticplants.siu.edu/index.html
-EOL:580991	Cuscuta europaea	RO:0002444	parasite of	EOL:61211	Coleus							http://parasiticplants.siu.edu/index.html
-EOL:580993	Cuscuta exaltata	RO:0002444	parasite of	EOL:61712	Impatiens							http://parasiticplants.siu.edu/index.html
-EOL:582964	Cuscuta gronovii	RO:0002444	parasite of	EOL:61211	Coleus							http://parasiticplants.siu.edu/index.html
-EOL:488090	Cuscuta indecora	RO:0002444	parasite of	EOL:61211	Coleus							http://parasiticplants.siu.edu/index.html
-EOL:2893152	Cuscuta lupuliformis	RO:0002444	parasite of	EOL:61211	Coleus							http://parasiticplants.siu.edu/index.html
-EOL:2893154	Cuscuta monogyna	RO:0002444	parasite of	EOL:703628	Retama sphaerocarpa	GEONAMES:2517115	Granada, Spain					http://parasiticplants.siu.edu/index.html
-EOL:5688876	Cuscuta nivea	RO:0002444	parasite of	EOL:2870386	Fumana	GEONAMES:3109254	Segovia, Spain					http://parasiticplants.siu.edu/index.html
-EOL:580975	Cuscuta obtusiflora	RO:0002444	parasite of	EOL:40155	Ludwigia	GEONAMES:3865483	near Rio de la Plata, Argentina					http://parasiticplants.siu.edu/index.html
-EOL:20776272	Cuscuta pacifica	RO:0002444	parasite of	EOL:61812	Salicornia	GEONAMES:5394922	Shark Inlet, California					http://parasiticplants.siu.edu/index.html
-EOL:20776272	Cuscuta pacifica	RO:0002444	parasite of	EOL:585884	Beta vulgaris							http://parasiticplants.siu.edu/index.html
-EOL:20776272	Cuscuta pacifica	RO:0002444	parasite of	EOL:585977	Salicornia virginica	GEONAMES:7172926	near Anacortes, Washington					http://parasiticplants.siu.edu/index.html
-EOL:580979	Cuscuta polygonorum	RO:0002444	parasite of	EOL:61211	Coleus							http://parasiticplants.siu.edu/index.html
-EOL:590111	Cuscuta reflexa	RO:0002444	parasite of	EOL:59440	Pelargonium							http://parasiticplants.siu.edu/index.html
-EOL:582966	Cuscuta rostrata	RO:0002444	parasite of	EOL:30108	Rubus	GEONAMES:4456436	Blue Ridge Parkway, North Carolina					http://parasiticplants.siu.edu/index.html
-EOL:582966	Cuscuta rostrata	RO:0002444	parasite of	EOL:61211	Coleus							http://parasiticplants.siu.edu/index.html
-EOL:2895156	Boschniakia himalaica	RO:0002444	parasite of	EOL:2874122	Rhododendron phaeochrysum	GEONAMES:1785694	Yunnan Province, China					http://parasiticplants.siu.edu/index.html
-EOL:577884	Boschniakia rossica	RO:0002444	parasite of	EOL:107300	Alnus	GEONAMES:2016590	Siberia					http://parasiticplants.siu.edu/index.html
-EOL:577886	Conopholis americana	RO:0002444	parasite of	EOL:1151317	Quercus rubra	GEONAMES:5153224	Elywood Park, Elyria, OH					http://parasiticplants.siu.edu/index.html
-EOL:577886	Conopholis americana	RO:0002444	parasite of	EOL:32233	Quercus	GEONAMES:4760832	Giles Co., Virginia, USA					http://parasiticplants.siu.edu/index.html
-EOL:577888	Conopholis mexicana	RO:0002444	parasite of	EOL:32233	Quercus	GEONAMES:5518829	Chisos Mountains, Big Bend National Park, TX					http://parasiticplants.siu.edu/index.html
-	Eremitilla mexicana	RO:0002444	parasite of	EOL:5125938	Hedyosmum mexicanum							http://parasiticplants.siu.edu/index.html
-EOL:2867029	Lathraea squamaria		pollenated by	EOL:3786881	Anthophora acervorum	GEONAMES:2867714	Munich, Germany					http://parasiticplants.siu.edu/index.html
-EOL:5657941	Phelypaea tournefortii	RO:0002444	parasite of	EOL:59478	Tanacetum	GEONAMES:323835	eastern Anatolia					http://parasiticplants.siu.edu/index.html
-EOL:484669	Striga gesnerioides	RO:0002444	parasite of	EOL:8686352	Indigofera hirsuta	GEONAMES:4155751	Florida					http://parasiticplants.siu.edu/index.html
-EOL:484669	Striga gesnerioides	RO:0002444	parasite of	EOL:20197	Euphorbia							http://parasiticplants.siu.edu/index.html
-EOL:483846	Striga hermonthica	RO:0002444	parasite of	EOL:1115259	Zea mays							http://parasiticplants.siu.edu/index.html
-EOL:2895174	Orobanche alba	RO:0002444	parasite of	EOL:60979	Thymus	GEONAMES:2769364	Ötscher, Lower Austria					http://parasiticplants.siu.edu/index.html
-EOL:2882357	Orobanche amethystea	RO:0002444	parasite of	EOL:581795	Eryngium campestre	GEONAMES:2893995	Kaiserstuhl, Germany					http://parasiticplants.siu.edu/index.html
-EOL:2882357	Orobanche amethystea	RO:0002444	parasite of	EOL:50169	Hieracium	GEONAMES:2271989	Algarve, Portugal					http://parasiticplants.siu.edu/index.html
-EOL:5657111	Orobanche anatolica	RO:0002444	parasite of	EOL:38380	Salvia	GEONAMES:323835	eastern Anatolia					http://parasiticplants.siu.edu/index.html
-EOL:5657124	Orobanche arenaria	RO:0002444	parasite of	EOL:596480	Artemisia campestris	GEONAMES:2893995	Kaiserstuhl, Germany					http://parasiticplants.siu.edu/index.html
-EOL:5657131	Orobanche artemisiae-campestris	RO:0002444	parasite of	EOL:37526	Artemisia	GEONAMES:2519670	Sierra de Cazorla, Spain					http://parasiticplants.siu.edu/index.html
-EOL:577891	Orobanche bulbosa	RO:0002444	parasite of	EOL:637532	Adenostoma fasciculatum	GEONAMES:5379524	Orange County, California					http://parasiticplants.siu.edu/index.html
-EOL:577890	Orobanche californica	RO:0002444	parasite of	EOL:595541	Grindelia integrifolia	GEONAMES:5802462	Marrowstone Point, Kitsap Co., WA					http://parasiticplants.siu.edu/index.html
-EOL:2895182	Orobanche canescens	RO:0002444	parasite of	EOL:469139	Chrysanthemum coronarium var. discolor	GEONAMES:255110	Plakias beach, Chania district, Crete					http://parasiticplants.siu.edu/index.html
-EOL:486645	Orobanche cernua var. cumana	RO:0002444	parasite of	EOL:6180227	Artemisia meyeriana	GEONAMES:614540	Georgia					http://parasiticplants.siu.edu/index.html
-EOL:486648	Orobanche crenata	RO:0002444	parasite of	EOL:703202	Vicia faba							http://parasiticplants.siu.edu/index.html
-EOL:486648	Orobanche crenata	RO:0002444	parasite of	EOL:581785	Daucus carota	GEONAMES:294640	Israel					http://parasiticplants.siu.edu/index.html
-	Orobanche dhofarense	RO:0002444	parasite of	EOL:61712	Impatiens	GEONAMES:285879	Oman, Dhofar region					http://parasiticplants.siu.edu/index.html
-EOL:2899377	Orobanche elatior	RO:0002444	parasite of	EOL:467676	Centaurea scabiosa	GEONAMES:2893995	Kaiserstuhl, Germany					http://parasiticplants.siu.edu/index.html
-EOL:2899377	Orobanche elatior	RO:0002444	parasite of	EOL:467676	Centaurea scabiosa	GEONAMES:2633868	Wiltshire, UK					http://parasiticplants.siu.edu/index.html
-EOL:577894	Orobanche fasciculata	RO:0002444	parasite of	EOL:580530	Eriodictyon crassifolium	GEONAMES:5379524	Orange County, California					http://parasiticplants.siu.edu/index.html
-EOL:577894	Orobanche fasciculata	RO:0002444	parasite of	EOL:595684	Eriodictyon californicum	GEONAMES:5370594	Mariposa Co., California					http://parasiticplants.siu.edu/index.html
-EOL:5657302	Orobanche flava	RO:0002444	parasite of	EOL:6195508	Petasites paradoxus	GEONAMES:2769364	Ötscher, Lower Austria					http://parasiticplants.siu.edu/index.html
-EOL:5657307	Orobanche foetida	RO:0002444	parasite of	EOL:703326	Ononis natrix	GEONAMES:2271989	Algarve, Portugal					http://parasiticplants.siu.edu/index.html
-EOL:5657337	Orobanche gracilis	RO:0002444	parasite of	EOL:702889	Lotus corniculatus	GEONAMES:3208393	Landsberg, Bavaria, Germany					http://parasiticplants.siu.edu/index.html
-EOL:5657337	Orobanche gracilis	RO:0002444	parasite of	EOL:703956	Hippocrepis comosa	GEONAMES:3208393	Landsberg, Bavaria, Germany					http://parasiticplants.siu.edu/index.html
-EOL:5657347	Orobanche grossheimii	RO:0002444	parasite of	EOL:61979	Cephalaria	GEONAMES:614540	southern Georgia					http://parasiticplants.siu.edu/index.html
-EOL:5657355	Orobanche hederae	RO:0002444	parasite of	EOL:1143004	Hedera helix	GEONAMES:7911206	Berlin Botanical Garden, Germany					http://parasiticplants.siu.edu/index.html
-EOL:5657451	Orobanche lucorum	RO:0002444	parasite of	EOL:61051	Berberis	GEONAMES:6695624	Warszawa (Warsaw), Poland					http://parasiticplants.siu.edu/index.html
-EOL:577895	Orobanche minor	RO:0002444	parasite of	EOL:27877	Trifolium	GEONAMES:4589368	North Augusta, South Carolina, USA					http://parasiticplants.siu.edu/index.html
-EOL:38650376	Orobanche mutelii	RO:0002444	parasite of	EOL:582422	Oxalis pres-caprae	GEONAMES:264114	Roadside 6 km south of Aiga Varvara, Iraklion District, Crete	35.13715	25.00131			http://parasiticplants.siu.edu/index.html
-EOL:5657495	Orobanche nowackiana	RO:0002444	parasite of	EOL:39058	Alyssum	GEONAMES:363258	Pindus mountains, Greece					http://parasiticplants.siu.edu/index.html
-EOL:2882351	Orobanche oxyloba	RO:0002444	parasite of	EOL:6182623	Anthemis chia	GEONAMES:259912	Roadside near Hora Sfakion, Chania district, Crete	35.20176	24.13711			http://parasiticplants.siu.edu/index.html
-EOL:591939	Orobanche pinorum	RO:0002444	parasite of	EOL:301218	Holodiscus discolor	GEONAMES:5800683	Leavenworth, WA					http://parasiticplants.siu.edu/index.html
-EOL:5658011	Orobanche purpurea	RO:0002444	parasite of	EOL:6173033	Achillea holosericea	GEONAMES:363258	Pindus mountains, Greece					http://parasiticplants.siu.edu/index.html
-EOL:5658011	Orobanche purpurea	RO:0002444	parasite of	EOL:36945	Achillea	GEONAMES:614540	southern Georgia					http://parasiticplants.siu.edu/index.html
-EOL:577856	Orobanche ramosa	RO:0002444	parasite of	EOL:582422	Oxalis pes-caprae	GEONAMES:6301792	Alto do Duque, Lisboa, Portugal					http://parasiticplants.siu.edu/index.html
-EOL:5657574	Orobanche reticulata	RO:0002444	parasite of	EOL:6235993	Carduus defloratus	GEONAMES:2903084	Hochplatte, Ammergebirge-Mountains, Bavaria					http://parasiticplants.siu.edu/index.html
-EOL:5657600	Orobanche sanguinea	RO:0002444	parasite of	EOL:702891	Lotus cytisoides	GEONAMES:262819	Elaphonisi Island, Crete, Greece					http://parasiticplants.siu.edu/index.html
-EOL:5657738	Orobanche tunetana	RO:0002444	parasite of	EOL:5486666	Plantago albicans	GEONAMES:2510769	southeastern Spain					http://parasiticplants.siu.edu/index.html
-EOL:577858	Orobanche uniflora var. purpurea	RO:0002444	parasite of	EOL:586874	Montia perfoliata	GEONAMES:5789829	Chelan Co., WA					http://parasiticplants.siu.edu/index.html
-EOL:5657556	Orobanche versicolor	RO:0002444	parasite of	EOL:485022	Tordylium apulum	GEONAMES:256904	Near Myrthios, Chania district, Crete					http://parasiticplants.siu.edu/index.html
+EOL:5605145	Aetanthus mutisii	RO:0002444	parasite of	EOL:32233	Quercus							http://parasiticplants.siu.edu/Loranthaceae/
+EOL:5605212	Agelanthus prunifolius	RO:0002444	parasite of	EOL:37840	Rhus	GEONAMES:953987	Kleinemond, South Africa.					http://parasiticplants.siu.edu/Loranthaceae/
+EOL:5605325	Amyema fasciculata	RO:0002444	parasite of	EOL:1149282	Bischofia javanica	GEONAMES:1686536	Mt. Silanganan, Bataan, Luzon Island, Philippines					http://parasiticplants.siu.edu/Loranthaceae/
+EOL:5605607	Amylotheca subumbellata	RO:0002444	parasite of	EOL:5460565	Rhodamnia trineura 	GEONAMES:7839399	Paluma Range just north of Townsville, Queensland, Australia					http://parasiticplants.siu.edu/Loranthaceae/
+EOL:5604643	Antidaphne punctulata	RO:0002444	parasite of	EOL:5345764	Desfontainia spinosa	GEONAMES:3895114	Nahuelbuta Chile					http://parasiticplants.siu.edu/Santalaceae/index.html
+EOL:5514243	Apodanthes caseariae	RO:0002444	parasite of	EOL:62218	Casearia	GEONAMES:3703430	Panama					http://parasiticplants.siu.edu/Apodanthaceae/index.html
+EOL:5514243	Apodanthes caseariae	RO:0002444	parasite of	EOL:62218	Casearia	GEONAMES:3621889	San Isidro, Costa Rica					http://parasiticplants.siu.edu/Apodanthaceae/index.html
+EOL:5514243	Apodanthes caseariae	RO:0002444	parasite of	EOL:489758	Casearia stjohnii	GEONAMES:3703430	Barrow Colorado Island, Panama					http://parasiticplants.siu.edu/Apodanthaceae/index.html
+EOL:586648	Arceuthobium americanum	RO:0002444	parasite of	EOL:1061758	Pinus contorta	GEONAMES:5437350	Saguache Co., Colorado, USA					http://parasiticplants.siu.edu/Viscaceae/index.html
+EOL:5610743	Arceuthobium bicarinatum	RO:0002444	parasite of	EOL:323438	Pinus occidentalis	GEONAMES:3504558	Hispaniola					http://parasiticplants.siu.edu/Viscaceae/index.html
+	Arceuthobium campylopodum subsp. abietinum	RO:0002444	parasite of	EOL:1061727	Abies magnifica	GEONAMES:5369578	Madera Co., California, USA					http://parasiticplants.siu.edu/Viscaceae/index.html
+	Arceuthobium campylopodum subsp. blumeri	RO:0002444	parasite of	EOL:1011262	Pinus strobiformis	GEONAMES:5308878	Carr Canyon, Huachuca Mts., Pima Co. AZ					http://parasiticplants.siu.edu/Viscaceae/index.html
+	Arceuthobium campylopodum subsp. campylopodum	RO:0002444	parasite of	EOL:999712	Pinus jeffreyi	GEONAMES:5383559	Placerville, California, USA					http://parasiticplants.siu.edu/Viscaceae/index.html
+	Arceuthobium campylopodum subsp. cyanocarpum	RO:0002444	parasite of	EOL:1061751	Pinus ponderosa	GEONAMES:5574999	Boulder Co., Colorado, USA					http://parasiticplants.siu.edu/Viscaceae/index.html
+	Arceuthobium campylopodum subsp. tsugense	RO:0002444	parasite of	EOL:1061728	Abies lasiocarpa	GEONAMES:5735869	Lane Co., Oregon, USA					http://parasiticplants.siu.edu/Viscaceae/index.html
+	Arceuthobium campylopodum subsp. tsugense	RO:0002444	parasite of	EOL:1034932	Pinus albicaulis	GEONAMES:5735869	Lane Co., Oregon, USA					http://parasiticplants.siu.edu/Viscaceae/index.html
+	Arceuthobium campylopodum subsp. tsugense	RO:0002444	parasite of	EOL:1281916	Pinus contorta ssp. contorta	GEONAMES:5977034	Horne Lake, British Columbia, Canada					http://parasiticplants.siu.edu/Viscaceae/index.html
+	Arceuthobium campylopodum subsp. tsugense	RO:0002444	parasite of	EOL:1059917	Tsuga mertensiana	GEONAMES:5735869	Lane Co., Oregon, USA					http://parasiticplants.siu.edu/Viscaceae/index.html
+EOL:582679	Arceuthobium douglasii	RO:0002444	parasite of	EOL:6420636	Caliciopsis (Wallrothiella) arceuthobii	GEONAMES:5490100	Sandia Mts., Sandoval Co., NM					http://parasiticplants.siu.edu/Viscaceae/index.html
+EOL:582679	Arceuthobium douglasii	RO:0002444	parasite of	EOL:1061712	Pseudotsuga menziesii	GEONAMES:5424847	Mt. Herman, El Paso Co. CO					http://parasiticplants.siu.edu/Viscaceae/index.html
+EOL:597106	Arceuthobium gillii	RO:0002444	parasite of	EOL:1274871	Pinus leiophylla var. chihuahuana	GEONAMES:5551752	Bear Canyon, Santa Catalina Mts., Arizona					http://parasiticplants.siu.edu/Viscaceae/index.html
+EOL:2877544	Arceuthobium minutissimum	RO:0002444	parasite of	EOL:1061734	Pinus wallichiana	GEONAMES:1252634	Bhutan					http://parasiticplants.siu.edu/Viscaceae/index.html
+EOL:597104	Arceuthobium oxycedri	RO:0002444	parasite of	EOL:1061669	Juniperus oxycedrus	GEONAMES:6359350	San Agustin de Guadalix, north of Madrid, Spain					http://parasiticplants.siu.edu/Viscaceae/index.html
+EOL:2872657	Arceuthobium pini	RO:0002444	parasite of	EOL:1061744	Pinus yunnanensis	GEONAMES:1785694	Baimaxueshan Nature Reserve in Northwest Yunnan, China					http://parasiticplants.siu.edu/Viscaceae/index.html
+	Arceuthobium vaginatum ssp. cryptopodum	RO:0002444	parasite of	EOL:1281914	Pinus ponderosa var. scopulorum	GEONAMES:5483680	Pecos, NM					http://parasiticplants.siu.edu/Viscaceae/index.html
+	Arceuthobium vaginatum ssp. durangense	RO:0002444	parasite of	EOL:1281914	Pinus ponderosa var. scopulorum	GEONAMES:3996063	Durango, Mexico					http://parasiticplants.siu.edu/Viscaceae/index.html
+EOL:2905652	Balanophora abbreviata	RO:0002444	parasite of	EOL:60627	Ficus	GEONAMES:1605651	Phu Laen Kha National Park, Chiyaphum Prov., Thailand					http://parasiticplants.siu.edu/Balanophoraceae/index.html
+EOL:2872803	Balanophora elongata	RO:0002444	parasite of	EOL:1081772	Pandanus klossii	GEONAMES:1733042	Gunung Ulu Kli, Pahang, Malaysia					http://parasiticplants.siu.edu/Balanophoraceae/index.html
+EOL:5604491	Balanophora latisepala	RO:0002444	parasite of	EOL:1153040	Phyllanthus emblica	GEONAMES:1153670	Prov. Chiang Mai, Northern Thailand					http://parasiticplants.siu.edu/Balanophoraceae/index.html
+EOL:5605654	Baratranthus axanthus	RO:0002444	parasite of	EOL:1109442	Pleiocarpidia capituligera	GEONAMES:1733038	Sarawak, Malaysia					http://parasiticplants.siu.edu/Loranthaceae/
+EOL:5514348	Bdallophytum americanum	RO:0002444	parasite of	EOL:37864	Bursera	GEONAMES:3514780	Costeras La Mancha, Veracruz, Mexico					http://parasiticplants.siu.edu/Cytinaceae/index.html
+EOL:2895156	Boschniakia himalaica	RO:0002444	parasite of	EOL:2874122	Rhododendron phaeochrysum	GEONAMES:1785694	Yunnan Province, China					http://parasiticplants.siu.edu/Orobanchaceae/NoPhoto.Scrophs.html
+EOL:577884	Boschniakia rossica	RO:0002444	parasite of	EOL:107300	Alnus	GEONAMES:2016590	Siberia					http://parasiticplants.siu.edu/Orobanchaceae/NoPhoto.Scrophs.html
+EOL:488488	Buckleya distichophylla	RO:0002444	parasite of	EOL:34199	Tsuga	GEONAMES:6254928	Virginia, USA					http://parasiticplants.siu.edu/Thesiaceae/index.html
+EOL:5396106	Cassytha ciliolata	RO:0002444	parasite of	EOL:628694	Cliffortia cuneata	GEONAMES:953987	South Africa					http://parasiticplants.siu.edu/Lauraceae/index.html
+EOL:596901	Cassytha filiformis	RO:0002444	parasite of	EOL:61858	Exocarpos	GEONAMES:2175229	Blue Mountains, New South Wales, Australia					http://parasiticplants.siu.edu/Lauraceae/index.html
+EOL:596901	Cassytha filiformis	RO:0002444	parasite of	EOL:49100	Scaevola	GEONAMES:2094341	Lissenung Island near Kavieng, New Ireland, Papua New Guinea					http://parasiticplants.siu.edu/Lauraceae/index.html
+EOL:577886	Conopholis americana	RO:0002444	parasite of	EOL:32233	Quercus	GEONAMES:4760832	Giles Co., Virginia, USA					http://parasiticplants.siu.edu/Orobanchaceae/NoPhoto.Scrophs.html
+EOL:577886	Conopholis americana	RO:0002444	parasite of	EOL:1151317	Quercus rubra	GEONAMES:5153224	Elywood Park, Elyria, OH					http://parasiticplants.siu.edu/Orobanchaceae/NoPhoto.Scrophs.html
+EOL:577888	Conopholis mexicana	RO:0002444	parasite of	EOL:32233	Quercus	GEONAMES:5518829	Chisos Mountains, Big Bend National Park, TX					http://parasiticplants.siu.edu/Orobanchaceae/NoPhoto.Scrophs.html
+EOL:1246825	Cucuta campestris	RO:0002444	parasite of	EOL:61211	Coleus							http://parasiticplants.siu.edu/Cuscutaceae/
+EOL:1246825	Cucuta campestris	RO:0002444	parasite of	EOL:61159	Corchorus	GEONAMES:248816	Jordan					http://parasiticplants.siu.edu/Cuscutaceae/
+EOL:1246825	Cucuta campestris	RO:0002444	parasite of	EOL:483313	Glechoma hederacea	GEONAMES:4914570	Urbana, Illinois					http://parasiticplants.siu.edu/Cuscutaceae/
+EOL:1246825	Cucuta campestris	RO:0002444	parasite of	EOL:27877	Trifolium							http://parasiticplants.siu.edu/Cuscutaceae/
+	Cuscuta approximata ssp. approximata	RO:0002444	parasite of	EOL:37526	Artemisia	GEONAMES:3117732	Madrid, Spain					http://parasiticplants.siu.edu/Cuscutaceae/
+	Cuscuta approximata ssp. approximata	RO:0002444	parasite of	EOL:27797	Dorycnium	GEONAMES:3117732	Madrid, Spain					http://parasiticplants.siu.edu/Cuscutaceae/
+EOL:580983	Cuscuta cephalanthii	RO:0002444	parasite of	EOL:61211	Coleus							http://parasiticplants.siu.edu/Cuscutaceae/
+EOL:580983	Cuscuta compacta	RO:0002444	parasite of	EOL:61211	Coleus							http://parasiticplants.siu.edu/Cuscutaceae/
+EOL:580988	Cuscuta cuspidata	RO:0002444	parasite of	EOL:580328	Campsis radicans	GEONAMES:4099753	Arkansas					http://parasiticplants.siu.edu/Cuscutaceae/
+EOL:580988	Cuscuta cuspidata	RO:0002444	parasite of	EOL:38325	Gaillardia	GEONAMES:4703582	Knox Co., TX.					http://parasiticplants.siu.edu/Cuscutaceae/
+EOL:580985	Cuscuta epilinum	RO:0002444	parasite of	EOL:581568	Linum usitatissimum							http://parasiticplants.siu.edu/Cuscutaceae/
+EOL:580990	Cuscuta epithymum	RO:0002444	parasite of	EOL:38297	Cuscuta	GEONAMES:3336898	Cantabria, Spain					http://parasiticplants.siu.edu/Cuscutaceae/
+EOL:580991	Cuscuta europaea	RO:0002444	parasite of	EOL:61211	Coleus							http://parasiticplants.siu.edu/Cuscutaceae/
+EOL:580993	Cuscuta exaltata	RO:0002444	parasite of	EOL:61211	Coleus							http://parasiticplants.siu.edu/Cuscutaceae/
+EOL:580993	Cuscuta exaltata	RO:0002444	parasite of	EOL:61712	Impatiens							http://parasiticplants.siu.edu/Cuscutaceae/
+EOL:582964	Cuscuta gronovii	RO:0002444	parasite of	EOL:61211	Coleus							http://parasiticplants.siu.edu/Cuscutaceae/
+EOL:582964	Cuscuta gronovii	RO:0002444	parasite of	EOL:581158	Impatiens capensis	GEONAMES:5183763	Along Spring Creek, Benner Township, Centre County, PA					http://parasiticplants.siu.edu/Cuscutaceae/
+EOL:488090	Cuscuta indecora	RO:0002444	parasite of	EOL:61211	Coleus							http://parasiticplants.siu.edu/Cuscutaceae/
+EOL:2893152	Cuscuta lupuliformis	RO:0002444	parasite of	EOL:61211	Coleus							http://parasiticplants.siu.edu/Cuscutaceae/
+EOL:2893154	Cuscuta monogyna	RO:0002444	parasite of	EOL:703628	Retama sphaerocarpa	GEONAMES:2517115	Granada, Spain					http://parasiticplants.siu.edu/Cuscutaceae/
+EOL:5688876	Cuscuta nivea	RO:0002444	parasite of	EOL:2870386	Fumana	GEONAMES:3109254	Segovia, Spain					http://parasiticplants.siu.edu/Cuscutaceae/
+EOL:580975	Cuscuta obtusiflora	RO:0002444	parasite of	EOL:40155	Ludwigia	GEONAMES:3865483	near Rio de la Plata, Argentina					http://parasiticplants.siu.edu/Cuscutaceae/
+EOL:20776272	Cuscuta pacifica	RO:0002444	parasite of	EOL:585884	Beta vulgaris							http://parasiticplants.siu.edu/Cuscutaceae/
+EOL:20776272	Cuscuta pacifica	RO:0002444	parasite of	EOL:61812	Salicornia	GEONAMES:5394922	Shark Inlet, California					http://parasiticplants.siu.edu/Cuscutaceae/
+EOL:20776272	Cuscuta pacifica	RO:0002444	parasite of	EOL:585977	Salicornia virginica	GEONAMES:7172926	near Anacortes, Washington					http://parasiticplants.siu.edu/Cuscutaceae/
+EOL:580979	Cuscuta polygonorum	RO:0002444	parasite of	EOL:61211	Coleus							http://parasiticplants.siu.edu/Cuscutaceae/
+EOL:590111	Cuscuta reflexa	RO:0002444	parasite of	EOL:594918	Ficus benjamina		Botanical Garden Graz (Austria)					http://parasiticplants.siu.edu/Cuscutaceae/
+EOL:590111	Cuscuta reflexa	RO:0002444	parasite of	EOL:59440	Pelargonium							http://parasiticplants.siu.edu/Cuscutaceae/
+EOL:582966	Cuscuta rostrata	RO:0002444	parasite of	EOL:61211	Coleus							http://parasiticplants.siu.edu/Cuscutaceae/
+EOL:582966	Cuscuta rostrata	RO:0002444	parasite of	EOL:30108	Rubus	GEONAMES:4456436	Blue Ridge Parkway, North Carolina					http://parasiticplants.siu.edu/Cuscutaceae/
+EOL:23654311	Cytinus capensis	RO:0002444	parasite of	EOL:5623803	Diosma hirsuta	GEONAMES:953987	South Africa					http://parasiticplants.siu.edu/Cytinaceae/index.html
+EOL:5514276	Cytinus hypocistis	RO:0002444	parasite of	EOL:5731802	Cistus clusii							http://parasiticplants.siu.edu/Cytinaceae/index.html
+EOL:5514276	Cytinus hypocistis	RO:0002444	parasite of	EOL:488251	Cistus ladenifer	GEONAMES:2510769	Spain					http://parasiticplants.siu.edu/Cytinaceae/index.html
+EOL:5514276	Cytinus hypocistis	RO:0002444	parasite of	EOL:483189	Cistus salviifolius							http://parasiticplants.siu.edu/Cytinaceae/index.html
+EOL:5514283	Cytinus ruber	RO:0002444	parasite of	EOL:1246346	Cistus creticus	GEONAMES:8133747	Ikaria, Greece					http://parasiticplants.siu.edu/Cytinaceae/index.html
+	Dactylanthus taylori	RO:0002471	eaten by	EOL:1038741	Mystacina tuberculata							http://parasiticplants.siu.edu/Mystropetalaceae/index.html
+EOL:5605854	Decaisnina zollingeri	RO:0002444	parasite of	EOL:582270	Mangifera indica	GEONAMES:1622786	Makassar, South Sulawesi, Indonesia					http://parasiticplants.siu.edu/Loranthaceae/index.html
+EOL:2878070	Dendrophthoe falcata	RO:0002444	parasite of	EOL:1054831	Annona squamosa	GEONAMES:1227603	Sri Lanka					http://parasiticplants.siu.edu/Loranthaceae/index.html
+EOL:5605922	Dendrophthoe homoplastica	RO:0002444	parasite of	EOL:643367	Acacia holosericea	GEONAMES:7839399	Townsville, Queensland, Australia					http://parasiticplants.siu.edu/Loranthaceae/index.html
+EOL:5605922	Dendrophthoe homoplastica	RO:0002444	parasite of	EOL:486240	Viscum articulatum							http://parasiticplants.siu.edu/Loranthaceae/index.html
+EOL:2872661	Dendrophthoe pentandra	RO:0002444	parasite of	EOL:2508664	Syzygium aequem	GEONAMES:1733045	Putrajaya Wetlands, Malaysia					http://parasiticplants.siu.edu/Loranthaceae/index.html
+EOL:5605995	Dendrophthoe trigona	RO:0002444	parasite of	EOL:491537	Ficus racemosa	GEONAMES:1252876	Western Ghats, India					http://parasiticplants.siu.edu/Loranthaceae/index.html
+EOL:5606003	Dendrophthoe vitellina	RO:0002444	parasite of	EOL:301400	Eucalyptus paniculata	GEONAMES:2155400	New South Wales					http://parasiticplants.siu.edu/Loranthaceae/index.html
+EOL:51368	Dendrophthora	RO:0002444	parasite of	EOL:38372	Vaccinium	GEONAMES:3708476	Cerro Itamut, Bocas del Toro, Panama					http://parasiticplants.siu.edu/Viscaceae/index.html
+EOL:5604734	Dendrophthora elliptica	RO:0002444	parasite of	EOL:52157	Tibouchina							http://parasiticplants.siu.edu/Viscaceae/index.html
+EOL:2872621	Dendrotrophe	RO:0002444	parasite of	EOL:44513	Glochidion	GEONAMES:2088628	Okinaiwa, Papua New Guinea					http://parasiticplants.siu.edu/Amphorogynaceae/
+EOL:5606016	Desmaria mutabilis	RO:0002444	parasite of	EOL:1153927	Nothofagus antarctica	GEONAMES:3895114	Nahuelbuta National Park, Chile					http://parasiticplants.siu.edu/Loranthaceae/index.html
+EOL:5606016	Desmaria mutabilis	RO:0002444	parasite of	EOL:1153904	Nothofagus obliqua	GEONAMES:3895114	Nahuelbuta National Park, Chile					http://parasiticplants.siu.edu/Loranthaceae/index.html
+EOL:5606207	Englerina lecardii	RO:0002444	parasite of	EOL:1106501	Mitragyna inermis	GEONAMES:2300660	Bolgatanga road, Ghana					http://parasiticplants.siu.edu/Loranthaceae/index.html
+	Eremitilla mexicana	RO:0002444	parasite of	EOL:5125938	Hedyosmum mexicanum							http://parasiticplants.siu.edu/Orobanchaceae/NoPhoto.Scrophs.html
+EOL:489584	Eubrachion ambiguum	RO:0002444	parasite of	EOL:2508607	Pimenta	GEONAMES:4566966	Santana Peak, Puerto Rico					http://parasiticplants.siu.edu/Santalaceae/index.html
+EOL:5606316	Helicanthes elastica	RO:0002444	parasite of	EOL:2508660	Syzygium cumini	GEONAMES:1252876	Western Ghats, India					http://parasiticplants.siu.edu/Loranthaceae/
+EOL:2878430	Helixanthera ligustrina	RO:0002444	parasite of	EOL:2891233	Rhododendron arboreum	GEONAMES:1283239	Kathmandu Valley					http://parasiticplants.siu.edu/Loranthaceae/index.html
+EOL:5514361	Hydnora africana	RO:0002444	parasite of	EOL:1144433	Euphorbia mauritanica	GEONAMES:953987	near Worcester, South Africa					http://parasiticplants.siu.edu/Hydnoraceae/
+EOL:5610841	Korthalsella lindsayi	RO:0002444	parasite of	EOL:1105598	Coprosma crassifolia	GEONAMES:2186224	New Zealand					http://parasiticplants.siu.edu/Viscaceae/index.html
+EOL:5610841	Korthalsella lindsayi	RO:0002444	parasite of	EOL:5619124	Melicope simplex	GEONAMES:2186224	New Zealand					http://parasiticplants.siu.edu/Viscaceae/index.html
+EOL:595745	Korthalsella opuntia	RO:0002444	parasite of	EOL:40549990	Euodia borbonica	GEONAMES:2186224	New Zealand					http://parasiticplants.siu.edu/Viscaceae/index.html
+EOL:5610842	Korthalsella salicornioides	RO:0002444	parasite of	EOL:595042	Erica lusitanica	GEONAMES:2186224	New Zealand					http://parasiticplants.siu.edu/Viscaceae/index.html
+EOL:5610842	Korthalsella salicornioides	RO:0002444	parasite of	EOL:5448887	Kunzea ericoides	GEONAMES:2186224	New Zealand					http://parasiticplants.siu.edu/Viscaceae/index.html
+EOL:2867029	Lathraea squamaria	RO:0002456	pollenated by	EOL:3786881	Anthophora acervorum	GEONAMES:2867714	Munich, Germany					http://parasiticplants.siu.edu/Orobanchaceae/NoPhoto.Scrophs.html
+	Lathrophytum peckoltii	RO:0002444	parasite of	EOL:61154	Paullinia	GEONAMES:3451189	Rio de Janeiro, Brazil					http://parasiticplants.siu.edu/Balanophoraceae/index.html
+EOL:104159	Leioproctus	http://eol.org/schema/terms/VisitsFlowersOf	visits flowers of	EOL:5607088	Peraxilla tetrapetala							http://parasiticplants.siu.edu/Loranthaceae/
+EOL:5604673	Lepidoceras chilense	RO:0002444	parasite of	EOL:5417050	Laurelia sempervirens							http://parasiticplants.siu.edu/Santalaceae/index.html
+EOL:5606706	Ligaria cuneifolia	RO:0002444	parasite of	EOL:642102	Acacia caven	GEONAMES:8261224	Ovalle, Chile					http://parasiticplants.siu.edu/Loranthaceae/index.html
+EOL:5606706	Ligaria cuneifolia	RO:0002444	parasite of	EOL:27835	Prosopis	GEONAMES:3895114	Near Los Andes, Chile					http://parasiticplants.siu.edu/Loranthaceae/index.html
+EOL:2872676	Loranthus kaoi	RO:0002444	parasite of		Taxillus rhododendricolius	GEONAMES:1668284	Taiwan					http://parasiticplants.siu.edu/Loranthaceae/index.html
+EOL:5514361	Macrosolen albicaulis	RO:0002444	parasite of	EOL:60627	Ficus	GEONAMES:1227603	Sri Lanka					http://parasiticplants.siu.edu/Loranthaceae/index.html
+EOL:5606784	Macrosolen capitellatus	RO:0002444	parasite of	EOL:582270	Mangifera indica							http://parasiticplants.siu.edu/Loranthaceae/index.html
+EOL:2876354	Macrosolen geminatus	RO:0002444	parasite of	EOL:50517	Canarium							http://parasiticplants.siu.edu/Loranthaceae/index.html
+EOL:5606825	Macrosolen retusus	RO:0002444	parasite of	EOL:5442752	Pternandra coerulescens	GEONAMES:1781760	Bako National Park, Sarawak, Malaysia 					http://parasiticplants.siu.edu/Loranthaceae/index.html
+EOL:6360761	Misodendrum angulatum	RO:0002444	parasite of	EOL:1153916	Nothofagus dombeyii	GEONAMES:3864759	near Llao Llao hotel, Bariloche, Argentina					http://parasiticplants.siu.edu/Misodendraceae/index.html
+EOL:6360761	Misodendrum angulatum	RO:0002444	parasite of	EOL:1153916	Nothofagus dombeyii	GEONAMES:3895114	Puyehue National Park, Chile					http://parasiticplants.siu.edu/Misodendraceae/index.html
+EOL:6360763	Misodendrum brachystachyum	RO:0002444	parasite of	EOL:5297356	Sorothamus	GEONAMES:3864759	Bariloche, Argentina					http://parasiticplants.siu.edu/Misodendraceae/index.html
+EOL:6360783	Misodendrum gayanum	RO:0002444	parasite of	EOL:1153923	Nothofagus betuloides	GEONAMES:3895114	Chile					http://parasiticplants.siu.edu/Misodendraceae/index.html
+EOL:6360783	Misodendrum gayanum	RO:0002444	parasite of	EOL:1153916	Nothofagus dombeyii	GEONAMES:3895114	Chile					http://parasiticplants.siu.edu/Misodendraceae/index.html
+EOL:6360765	Misodendrum linearifolium	RO:0002444	parasite of	EOL:1153916	Nothofagus dombeyii							http://parasiticplants.siu.edu/Misodendraceae/index.html
+EOL:6360765	Misodendrum linearifolium	RO:0002444	parasite of	EOL:1153900	Nothofagus pumilio	GEONAMES:3865483	Argentina					http://parasiticplants.siu.edu/Misodendraceae/index.html
+EOL:6360772	Misodendrum oblongifolium	RO:0002444	parasite of	EOL:1153927	Nothofagus antarctica	GEONAMES:3895114	Andean foothills east of Chillan, Chile					http://parasiticplants.siu.edu/Misodendraceae/index.html
+EOL:2918445	Misodendrum puctulatum	RO:0002444	parasite of	EOL:1153927	Nothofagus antarctica	GEONAMES:3895114	Nahuelbuta National Park, Chile					http://parasiticplants.siu.edu/Misodendraceae/index.html
+EOL:2918445	Misodendrum punctulatum	RO:0002444	parasite of	EOL:107853	Nothofagus	GEONAMES:3834448	Tierra del Fuego National Park					http://parasiticplants.siu.edu/Misodendraceae/index.html
+EOL:2918445	Misodendrum punctulatum	RO:0002444	parasite of	EOL:1153927	Nothofagus antarctica	GEONAMES:3843470	Lago Guillelmo, Parque Nacional Nahuel Huapi					http://parasiticplants.siu.edu/Misodendraceae/index.html
+EOL:3120263	Muellerina eucalyptoides	RO:0002444	parasite of	EOL:630114	Eucalyptus blakelyi	GEONAMES:2077456	Australia					http://parasiticplants.siu.edu/Loranthaceae/index.html
+EOL:5612087	Notothixos incanus	RO:0002444	parasite of	EOL:1327063	Melaleuca	GEONAMES:2152274	Queensland, Australia					http://parasiticplants.siu.edu/Viscaceae/index.html
+EOL:5604545	Ombrophytum subterraneum	RO:0002444	parasite of	EOL:27787	Medicago	GEONAMES:3894952	Chiuchiu, Chile					http://parasiticplants.siu.edu/Balanophoraceae/index.html
+EOL:5604545	Ombrophytum subterraneum	RO:0002444	parasite of	EOL:6204856	Tessaria absinthioides	GEONAMES:3894952	Chiuchiu, Chile					http://parasiticplants.siu.edu/Balanophoraceae/index.html
+EOL:5604545	Ombrophytum subterraneum	RO:0002444	parasite of		Tessaria tuber							http://parasiticplants.siu.edu/Balanophoraceae/index.html
+EOL:5606990	Oncocalyx welwitschii	RO:0002444	parasite of	EOL:13650	Acacia	GEONAMES:3355312	Namutoni, Namibia					http://parasiticplants.siu.edu/Loranthaceae/
+EOL:2895174	Orobanche alba	RO:0002444	parasite of	EOL:60979	Thymus	GEONAMES:2769364	Ötscher, Lower Austria					http://parasiticplants.siu.edu/Orobanchaceae/Orobanche.Gallery.html
+EOL:2882357	Orobanche amethystea	RO:0002444	parasite of	EOL:581795	Eryngium campestre	GEONAMES:2893995	Kaiserstuhl, Germany					http://parasiticplants.siu.edu/Orobanchaceae/Orobanche.Gallery.html
+EOL:2882357	Orobanche amethystea	RO:0002444	parasite of	EOL:50169	Hieracium	GEONAMES:2271989	Algarve, Portugal					http://parasiticplants.siu.edu/Orobanchaceae/Orobanche.Gallery.html
+EOL:5657111	Orobanche anatolica	RO:0002444	parasite of	EOL:38380	Salvia	GEONAMES:323835	eastern Anatolia					http://parasiticplants.siu.edu/Orobanchaceae/Orobanche.Gallery.html
+EOL:5657124	Orobanche arenaria	RO:0002444	parasite of	EOL:596480	Artemisia campestris	GEONAMES:2893995	Kaiserstuhl, Germany					http://parasiticplants.siu.edu/Orobanchaceae/Orobanche.Gallery.html
+EOL:5657131	Orobanche artemisiae-campestris	RO:0002444	parasite of	EOL:37526	Artemisia	GEONAMES:2519670	Sierra de Cazorla, Spain					http://parasiticplants.siu.edu/Orobanchaceae/Orobanche.Gallery.html
+EOL:577891	Orobanche bulbosa	RO:0002444	parasite of	EOL:637532	Adenostoma fasciculatum	GEONAMES:5379524	Orange County, California					http://parasiticplants.siu.edu/Orobanchaceae/Orobanche.Gallery.html
+EOL:577890	Orobanche californica	RO:0002444	parasite of	EOL:595541	Grindelia integrifolia	GEONAMES:5802462	Marrowstone Point, Kitsap Co., WA					http://parasiticplants.siu.edu/Orobanchaceae/Orobanche.Gallery.html
+EOL:2895182	Orobanche canescens	RO:0002444	parasite of	EOL:469139	Chrysanthemum coronarium var. discolor	GEONAMES:255110	Plakias beach, Chania district, Crete					http://parasiticplants.siu.edu/Orobanchaceae/Orobanche.Gallery.html
+EOL:486645	Orobanche cernua var. cumana	RO:0002444	parasite of	EOL:6180227	Artemisia meyeriana	GEONAMES:614540	Georgia					http://parasiticplants.siu.edu/Orobanchaceae/Orobanche.Gallery.html
+EOL:486648	Orobanche crenata	RO:0002444	parasite of	EOL:581785	Daucus carota	GEONAMES:294640	Israel					http://parasiticplants.siu.edu/Orobanchaceae/Orobanche.Gallery.html
+EOL:486648	Orobanche crenata	RO:0002444	parasite of	EOL:703202	Vicia faba							http://parasiticplants.siu.edu/Orobanchaceae/Orobanche.Gallery.html
+	Orobanche dhofarense	RO:0002444	parasite of	EOL:61712	Impatiens	GEONAMES:285879	Oman, Dhofar region					http://parasiticplants.siu.edu/Orobanchaceae/Orobanche.Gallery.html
+EOL:2899377	Orobanche elatior	RO:0002444	parasite of	EOL:467676	Centaurea scabiosa	GEONAMES:2893995	Kaiserstuhl, Germany					http://parasiticplants.siu.edu/Orobanchaceae/Orobanche.Gallery.html
+EOL:2899377	Orobanche elatior	RO:0002444	parasite of	EOL:467676	Centaurea scabiosa	GEONAMES:2633868	Wiltshire, UK					http://parasiticplants.siu.edu/Orobanchaceae/Orobanche.Gallery.html
+EOL:577894	Orobanche fasciculata	RO:0002444	parasite of	EOL:595684	Eriodictyon californicum	GEONAMES:5370594	Mariposa Co., California					http://parasiticplants.siu.edu/Orobanchaceae/Orobanche.Gallery.html
+EOL:577894	Orobanche fasciculata	RO:0002444	parasite of	EOL:580530	Eriodictyon crassifolium	GEONAMES:5379524	Orange County, California					http://parasiticplants.siu.edu/Orobanchaceae/Orobanche.Gallery.html
+EOL:5657302	Orobanche flava	RO:0002444	parasite of	EOL:6195508	Petasites paradoxus	GEONAMES:2769364	Ötscher, Lower Austria					http://parasiticplants.siu.edu/Orobanchaceae/Orobanche.Gallery.html
+EOL:5657307	Orobanche foetida	RO:0002444	parasite of	EOL:703326	Ononis natrix	GEONAMES:2271989	Algarve, Portugal					http://parasiticplants.siu.edu/Orobanchaceae/Orobanche.Gallery.html
+EOL:5657337	Orobanche gracilis	RO:0002444	parasite of	EOL:703956	Hippocrepis comosa	GEONAMES:3208393	Landsberg, Bavaria, Germany					http://parasiticplants.siu.edu/Orobanchaceae/Orobanche.Gallery.html
+EOL:5657337	Orobanche gracilis	RO:0002444	parasite of	EOL:702889	Lotus corniculatus	GEONAMES:3208393	Landsberg, Bavaria, Germany					http://parasiticplants.siu.edu/Orobanchaceae/Orobanche.Gallery.html
+EOL:5657347	Orobanche grossheimii	RO:0002444	parasite of	EOL:61979	Cephalaria	GEONAMES:614540	southern Georgia					http://parasiticplants.siu.edu/Orobanchaceae/Orobanche.Gallery.html
+EOL:5657355	Orobanche hederae	RO:0002444	parasite of	EOL:1143004	Hedera helix	GEONAMES:7911206	Berlin Botanical Garden, Germany					http://parasiticplants.siu.edu/Orobanchaceae/Orobanche.Gallery.html
+EOL:5657451	Orobanche lucorum	RO:0002444	parasite of	EOL:61051	Berberis	GEONAMES:6695624	Warszawa (Warsaw), Poland					http://parasiticplants.siu.edu/Orobanchaceae/Orobanche.Gallery.html
+EOL:577895	Orobanche minor	RO:0002444	parasite of	EOL:27877	Trifolium	GEONAMES:4589368	North Augusta, South Carolina, USA					http://parasiticplants.siu.edu/Orobanchaceae/Orobanche.Gallery.html
+EOL:38650376	Orobanche mutelii	RO:0002444	parasite of	EOL:582422	Oxalis pres-caprae	GEONAMES:264114	Roadside 6 km south of Aiga Varvara, Iraklion District, Crete	35.13715	25.00131			http://parasiticplants.siu.edu/Orobanchaceae/Orobanche.Gallery.html
+EOL:5657495	Orobanche nowackiana	RO:0002444	parasite of	EOL:39058	Alyssum	GEONAMES:363258	Pindus mountains, Greece					http://parasiticplants.siu.edu/Orobanchaceae/Orobanche.Gallery.html
+EOL:2882351	Orobanche oxyloba	RO:0002444	parasite of	EOL:6182623	Anthemis chia	GEONAMES:259912	Roadside near Hora Sfakion, Chania district, Crete	35.20176	24.13711			http://parasiticplants.siu.edu/Orobanchaceae/Orobanche.Gallery.html
+EOL:591939	Orobanche pinorum	RO:0002444	parasite of	EOL:301218	Holodiscus discolor	GEONAMES:5800683	Leavenworth, WA					http://parasiticplants.siu.edu/Orobanchaceae/Orobanche.Gallery.html
+EOL:5658011	Orobanche purpurea	RO:0002444	parasite of	EOL:36945	Achillea	GEONAMES:614540	southern Georgia					http://parasiticplants.siu.edu/Orobanchaceae/Orobanche.Gallery.html
+EOL:5658011	Orobanche purpurea	RO:0002444	parasite of	EOL:6173033	Achillea holosericea	GEONAMES:363258	Pindus mountains, Greece					http://parasiticplants.siu.edu/Orobanchaceae/Orobanche.Gallery.html
+EOL:577856	Orobanche ramosa	RO:0002444	parasite of	EOL:582422	Oxalis pes-caprae	GEONAMES:6301792	Alto do Duque, Lisboa, Portugal					http://parasiticplants.siu.edu/Orobanchaceae/Orobanche.Gallery.html
+EOL:5657574	Orobanche reticulata	RO:0002444	parasite of	EOL:6235993	Carduus defloratus	GEONAMES:2903084	Hochplatte, Ammergebirge-Mountains, Bavaria					http://parasiticplants.siu.edu/Orobanchaceae/Orobanche.Gallery.html
+EOL:5657600	Orobanche sanguinea	RO:0002444	parasite of	EOL:702891	Lotus cytisoides	GEONAMES:262819	Elaphonisi Island, Crete, Greece					http://parasiticplants.siu.edu/Orobanchaceae/Orobanche.Gallery.html
+EOL:5657738	Orobanche tunetana	RO:0002444	parasite of	EOL:5486666	Plantago albicans	GEONAMES:2510769	southeastern Spain					http://parasiticplants.siu.edu/Orobanchaceae/Orobanche.Gallery.html
+EOL:577858	Orobanche uniflora var. purpurea	RO:0002444	parasite of	EOL:586874	Montia perfoliata	GEONAMES:5789829	Chelan Co., WA					http://parasiticplants.siu.edu/Orobanchaceae/Orobanche.Gallery.html
+EOL:5657556	Orobanche versicolor	RO:0002444	parasite of	EOL:485022	Tordylium apulum	GEONAMES:256904	Near Myrthios, Chania district, Crete					http://parasiticplants.siu.edu/Orobanchaceae/Orobanche.Gallery.html
+EOL:5094669	Oryctanthus occidentalis	RO:0002444	parasite of	EOL:596888	Persea americana	GEONAMES:3624060	La Selva, Costa Rica					http://parasiticplants.siu.edu/Loranthaceae/index.html
+EOL:2872628	Phacellaria	RO:0002444	parasite of	EOL:2872680	Macrosolen							http://parasiticplants.siu.edu/Amphorogynaceae/
+EOL:2872632	Phacellaria rigidula	RO:0002444	parasite of	EOL:2876328	Dentrotrophe fructescens	GEONAMES:1819730	Hong Kong					http://parasiticplants.siu.edu/Amphorogynaceae/
+EOL:2872633	Phacellaria tonkinensis	RO:0002444	parasite of	EOL:2872682	Macrosolen cochinchinensis	GEONAMES:8476780	Thong Nong, Cao Bang, Vietnam					http://parasiticplants.siu.edu/Amphorogynaceae/
+EOL:5657941	Phelypaea tournefortii	RO:0002444	parasite of	EOL:59478	Tanacetum	GEONAMES:323835	eastern Anatolia					http://parasiticplants.siu.edu/Orobanchaceae/NoPhoto.Scrophs.html
+EOL:5611027	Phoradendron brachystachyum	RO:0002444	parasite of	EOL:5181979	Pachycereus pringlei	GEONAMES:4017698	Cape Region of Baja California Sur, Mexico					http://parasiticplants.siu.edu/Viscaceae/index.html
+EOL:486242	Phoradendron leucarpum	RO:0002444	parasite of	EOL:1151697	Quercus coccinea	GEONAMES:4060563	Elmore Co, Alabama, USA					http://parasiticplants.siu.edu/Viscaceae/index.html
+	Phoradendron perredactum	RO:0002444	parasite of	EOL:37864	Bursera	GEONAMES:3996063	Morelos, Mexico					http://parasiticplants.siu.edu/Viscaceae/index.html
+EOL:486245	Phoradendron quadrangulare	RO:0002444	parasite of	EOL:60627	Ficus	GEONAMES:3619190	Río Estelí, Nicaragua					http://parasiticplants.siu.edu/Viscaceae/index.html
+EOL:5611009	Phoradendron tonduzii	RO:0002444	parasite of	EOL:578225	Tecoma stans	GEONAMES:3617796	Madriz, Nicaragua					http://parasiticplants.siu.edu/Viscaceae/index.html
+EOL:5607122	Phragmanthera	RO:0002444	parasite of	EOL:2884441	Maytenus senegalesis							http://parasiticplants.siu.edu/Loranthaceae/index.html
+EOL:5607169	Phragmanthera usuiensis	RO:0002444	parasite of	EOL:581314	Nerium oleander		Botanische Garten der Technischen Universität Dresden					http://parasiticplants.siu.edu/Loranthaceae/
+EOL:5514209	Pilostyles aethiopica	RO:0002444	parasite of	EOL:703324	Brachystegia spiciformis	GEONAMES:884979	Christmas Pass, Mutare, Zimbabwe					http://parasiticplants.siu.edu/Apodanthaceae/index.html
+EOL:5514209	Pilostyles aethiopica	RO:0002444	parasite of	EOL:415641	Julbernardia globiflora	GEONAMES:893009	Christon Bank, Zimbabwe					http://parasiticplants.siu.edu/Apodanthaceae/index.html
+EOL:5514220	Pilostyles hamiltonii	RO:0002444	parasite of	EOL:644364	Daviesia decurrens	GEONAMES:2153391	Perth metro area, Western Australia					http://parasiticplants.siu.edu/Apodanthaceae/index.html
+EOL:5514220	Pilostyles hamiltonii	RO:0002444	parasite of	EOL:644735	Daviesia priessii	GEONAMES:2153391	Perth metro area, Western Australia					http://parasiticplants.siu.edu/Apodanthaceae/index.html
+EOL:5514221	Pilostyles haussknechtii	RO:0002444	parasite of	EOL:13451	Astragalus	GEONAMES:130758	Iran					http://parasiticplants.siu.edu/Apodanthaceae/index.html
+EOL:582674	Pilostyles thurberi	RO:0002444	parasite of	EOL:414723	Dalea formosa	GEONAMES:4703582	Knox Co., TX.					http://parasiticplants.siu.edu/Apodanthaceae/index.html
+EOL:582674	Pilostyles thurberi	RO:0002444	parasite of	EOL:640285	Psorothamnus emoryi	GEONAMES:5332921	Southern CA					http://parasiticplants.siu.edu/Apodanthaceae/index.html
+EOL:5093823	Plicosepalus acaciae	RO:0002444	parasite of	EOL:13650	Acacia	GEONAMES:294886	Negev desert, Israel					http://parasiticplants.siu.edu/Loranthaceae/
+EOL:5607283	Psittacanthus acinarius	RO:0002444	parasite of	EOL:640212	Campsiandra comoso	GEONAMES:3804424	Apure, Venezuela					http://parasiticplants.siu.edu/Loranthaceae/index.html
+EOL:5607283	Psittacanthus acinarius	RO:0002444	parasite of		Tacaranda	GEONAMES:3804424	Apure, Venezuela					http://parasiticplants.siu.edu/Loranthaceae/index.html
+EOL:5607395	Psittacanthus palmeri	RO:0002444	parasite of	EOL:583025	Bursera fagaroides	GEONAMES:4026701	Rosa Amarillo, Jalisco, Mexico					http://parasiticplants.siu.edu/Loranthaceae/index.html
+EOL:5607395	Psittacanthus palmeri	RO:0002444	parasite of	EOL:5615440	Bursera schlechtendalii	GEONAMES:3595415	Guatemala, Huehuetenango					http://parasiticplants.siu.edu/Loranthaceae/index.html
+EOL:5094823	Psittacanthus ramiflorus	RO:0002444	parasite of	EOL:32233	Quercus	GEONAMES:3983035	Sinaloa, Mexico					http://parasiticplants.siu.edu/Loranthaceae/index.html
+EOL:5094845	Psittacanthus rhynchanthus	RO:0002444	parasite of	EOL:583027	Bursera simaruba	GEONAMES:3618928	Jinotega, Nicaragua					http://parasiticplants.siu.edu/Loranthaceae/index.html
+EOL:5094845	Psittacanthus rhynchanthus	RO:0002444	parasite of	EOL:642632	Gliricidia sepium	GEONAMES:3620368	Chontales, Nicaragua					http://parasiticplants.siu.edu/Loranthaceae/index.html
+EOL:5094250	Psittacanthus robustus	RO:0002444	parasite of	EOL:5497801	Vochysia oppugnata							http://parasiticplants.siu.edu/Loranthaceae/index.html
+EOL:23654311	Psittacanthus schiedeanus	RO:0002444	parasite of	EOL:392723	Drimys winteri	GEONAMES:3624731	Volcan Barva, Costa Rica					http://parasiticplants.siu.edu/Loranthaceae/index.html
+EOL:487593	Pyrularia pubera	RO:0002444	parasite of	EOL:1034953	Abies fraseri	GEONAMES:4826850	West Virginia, USA					http://parasiticplants.siu.edu/Cervantesiaceae/
+EOL:2872688	Scurrula elata	RO:0002444	parasite of	EOL:2891233	Rhododendron arboreum	GEONAMES:1282988	Nepal					http://parasiticplants.siu.edu/Loranthaceae/index.html
+EOL:5094694	Septulina glauca	RO:0002444	parasite of	EOL:61752	Lycium	GEONAMES:953987	Voëlfontein Farm, South Africa					http://parasiticplants.siu.edu/Loranthaceae/index.html
+EOL:484669	Striga gesnerioides	RO:0002444	parasite of	EOL:20197	Euphorbia							http://parasiticplants.siu.edu/Orobanchaceae/Striga.Gallery.html
+EOL:484669	Striga gesnerioides	RO:0002444	parasite of	EOL:8686352	Indigofera hirsuta	GEONAMES:4155751	Florida					http://parasiticplants.siu.edu/Orobanchaceae/Striga.Gallery.html
+EOL:483846	Striga hermonthica	RO:0002444	parasite of	EOL:1115259	Zea mays							http://parasiticplants.siu.edu/Orobanchaceae/Striga.Gallery.html
+EOL:5607948	Tapinanthus bangwensis	RO:0002444	parasite of	EOL:29805	Gardenia	GEONAMES:7649051	Tamale, Ghana					http://parasiticplants.siu.edu/Loranthaceae/
+EOL:5608020	Tapinanthus forbesii	RO:0002444	parasite of	EOL:13650	Acacia	GEONAMES:3355312	Namutoni, Namibia					http://parasiticplants.siu.edu/Loranthaceae/
+EOL:2872698	Taxillus chinensis	RO:0002444	parasite of	EOL:38451	Sambucus	GEONAMES:1733039	Sabah, Malaysia					http://parasiticplants.siu.edu/Loranthaceae/
+EOL:2872700	Taxillus kaempferi	RO:0002444	parasite of	EOL:1061734	Pinus wallichiana	GEONAMES:1252634	Bhutan					http://parasiticplants.siu.edu/Loranthaceae/
+EOL:5607242	Tristerix corymbosus	RO:0002444	parasite of	EOL:5539317	Cissus striata	GEONAMES:3877946	Osorno, Chile					http://parasiticplants.siu.edu/Loranthaceae/
+EOL:5607242	Tristerix corymbosus	RO:0002444	parasite of	EOL:5536083	Colletia spinosissima	GEONAMES:3895114	Santiago, Chile					http://parasiticplants.siu.edu/Loranthaceae/
+EOL:5094080	Tristerix longebracteatus	RO:0002444	parasite of	EOL:61869	Buddleja	GEONAMES:3932488	Peru					http://parasiticplants.siu.edu/Loranthaceae/
+EOL:2918126	Tristerix penduliflorus	RO:0002444	parasite of	EOL:38931	Schinus	GEONAMES:3932488	Peru					http://parasiticplants.siu.edu/Loranthaceae/
+	Tristerix rhodanthus	RO:0002444	parasite of	EOL:5438017	Brachyotum	GEONAMES:9179604	Parque Nacional Madidi, Bolivia					http://parasiticplants.siu.edu/Loranthaceae/
+EOL:5095110	Tristerix verticillatus	RO:0002444	parasite of	EOL:5536083	Colletia spinosissima	GEONAMES:3895114	Yerba Loca National Park, Chile					http://parasiticplants.siu.edu/Loranthaceae/
+EOL:5095110	Tristerix verticillatus	RO:0002444	parasite of	EOL:23306275	Schinus mantanus	GEONAMES:3895114	Yerba Loca National Park, Chile					http://parasiticplants.siu.edu/Loranthaceae/
+EOL:5610671	Viscum album ssp. austriacum	RO:0002444	parasite of	EOL:1059929	Pinus sylvestris	GEONAMES:2770542	Lower Austria					http://parasiticplants.siu.edu/Viscaceae/index.html
+EOL:5611655	Viscum angulatum	RO:0002444	parasite of	EOL:1111390	Randia dumetorum	GEONAMES:1264418	Mahabaleshwar, India					http://parasiticplants.siu.edu/Viscaceae/index.html
+EOL:486240	Viscum articulatum	RO:0002444	parasite of	EOL:5605922	Dendrophthoe homoplasticum							http://parasiticplants.siu.edu/Viscaceae/index.html
+EOL:5611688	Viscum capitellatum	RO:0002444	parasite of	EOL:2878070	Dendrophthoe falcata	GEONAMES:1252876	Western Ghats, India					http://parasiticplants.siu.edu/Viscaceae/index.html
+EOL:5611831	Viscum minimum	RO:0002444	parasite of	EOL:20197	Euphorbia							http://parasiticplants.siu.edu/Viscaceae/index.html
